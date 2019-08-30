@@ -1,0 +1,7 @@
+contexts:
+- data:
+    output_dir: approval-processed
+    services_dir: approval-services
+    templates_dir: approval-templates
+  name: approval
+current: approval

@@ -1,5 +1,5 @@
 services:
-- hash: 4e8eca31f11baed5972d00661a3b2610200cf382
+- hash: d3ba2a5b09b7f2398ab2386ff61e7bb52085e45e
   name: approval-api
   path: /deploy/approval-api.yaml
   url: https://github.com/bsquizz/approval-api
